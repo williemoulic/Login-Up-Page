@@ -67,9 +67,11 @@ body{
     border: 1px solid whitesmoke;
     transition: .5s;
 }
+
 .login_form button:hover{
     background: dodgerblue;
 }
+
 .login_form #email_error,
 .login_form #pass_error{
     margin-top: 5px;
