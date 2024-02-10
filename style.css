@@ -5,7 +5,7 @@
 
 body{
 
-    background: url(bg_img.jpg) no-repeat;
+    background: url(cloud_compute.jpg) no-repeat;
     background-size: cover;
     align-items: center;
     justify-content: center;
@@ -81,5 +81,6 @@ body{
     padding: 5px 8px;
     border-radius: 3px;
     border: 1px solid silver;
+    display: none;
 
 }
